@@ -20,9 +20,11 @@
 */
 
 int main()
-{
+{   
+    // Array
     int numeros[5] = {10, 20, 30, 40, 50};
 
+    // Matriz
     int tabela[3][3] = {
         {1, 2, 3},
         {4, 5, 6},
